@@ -7,7 +7,7 @@ const Menu = () => (
 		paddingTop: '10px'
 	}}>
 		<ul style={{
-			listStyle: none,
+			listStyle: 'none',
 			display: 'flex',
 			justifyContent: 'space-evenly'
 		}}>
