@@ -5,8 +5,6 @@
 
 ## Description
 
-**Create a Gatsby site.**
-
     This application was created in order to familiarize myself with Gatsby. The application displays an about page, services page, and a blog that can be selected for a fullsized view. The website is very performant. I intend on using Gatsby in future projects.
 
     I followed this tutorial by Traversy Media to create this application: https://www.youtube.com/watch?v=6YhqQ2ZW1sc
